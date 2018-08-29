@@ -1,1 +1,4 @@
-"Reposit¢rio para fins did†ticos" 
+# Estudos data science
+Reposit√≥rio para fins did√°ticos
+
+Materiais obtidos no site: https://www.analisededados.org/
